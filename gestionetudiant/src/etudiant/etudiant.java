@@ -5,7 +5,7 @@ public class etudiant {
  private String nom;
  private double note;
   public etudiant (int id , String nom , double note ){
-     note =10;
+     note =10 ;
   }
  
 }
