@@ -1,12 +1,12 @@
 package etudiant;
 
 public class etudiant {
- public int id;
- public String nom;
- public double note;
+ private int id;
+ private String nom;
+ private double note;
  
- public etudiant (int id , ){ 
+ 
 	 
 	 
- }
+ 
 }
