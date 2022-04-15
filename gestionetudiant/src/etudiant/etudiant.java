@@ -11,6 +11,9 @@ public class etudiant {
   public String toString () {
 	  return (this.nom + ":" + this.note);
   }
+  public boolean equals(etudiant e) {
+	 return (this .id == e.id);
+  }
   }
 
  
